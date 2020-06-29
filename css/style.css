@@ -335,7 +335,7 @@ i {
     background-attachment: fixed;
     background-position: 50% 0;
     background-repeat: no-repeat;
-    height: 450px;
+    height: 800px;
     position: relative;
 }
 
@@ -349,6 +349,10 @@ i {
 
 .s03 {
     background-image: url(../img/Screenshot_65.png);
+}
+
+.s04 {
+    background-image: url(../img/1.jpg);
 }
 
 #contact {
